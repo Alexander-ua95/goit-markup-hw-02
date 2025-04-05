@@ -136,28 +136,28 @@ a {
     letter-spacing: 0.02em;
     color: #434455;
 }
-
-
-
-
-
-
-
-
-
-
-
 .business {
-    font-family: var(--font-family
-    );
-    font-weight: 700;
-        font-size: 56px;
-        line-height: 1.07;
-        letter-spacing: 0.02em;
-        text-align: center;
-        color: var(--white);
-        background-color: var(--navy-blue);
+    background-color: var(--navy-blue);
 }
+.logo-studio-basement {
+    color: #f4f4fd;
+}
+.p-basement {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 .spdt li {
     width: 264px;
