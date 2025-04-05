@@ -1,0 +1,74 @@
+:root {
+    --font-family: "Roboto", sans-serif;
+    --second-family: "Raleway", sans-serif;
+            --iris: #4d5ae5;
+            --ocean: #404bbf;
+            --navy-blue: #2e2f42;
+            --green: #31d0aa;
+            --slate: #434455;
+            --light-slate: #8e8f99;
+            --cornflower: #e7e9fc;
+            --cloud: #f4f4fd;
+            --navy-blue-modal: rgba(46, 47, 66, 0.4);
+            --grey: rgba(46, 47, 66, 0.7);
+            --white: #fff;
+            --dairy: #fcfcfc;
+}
+body {
+    font-family:var(--font-family);
+    color:var(--slate);
+    background-color:var(--white);
+}
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
+.web {
+    color: var(--iris);
+}
+.business {
+    font-family: var(--font-family
+    );
+    font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: var(--white);
+        background-color: var(--navy-blue);
+}
+.button-service {
+    border-radius: 4px;
+        padding: 16px 32px;
+        width: 169px;
+        height: 56px;
+        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+        background: var(--iris);
+        color: var(--white);
+}
+.spdt li {
+    width: 264px;
+    height: 104px;
+}
+.h-ourteam {
+    text-align: center;
+    background-color: var(--cloud);
+}
+.team li {
+    border-radius: 0 0 4px 4px;
+        padding: 0px 0px 32px 0px;
+        width: 264px;
+        height: 380px;
+        text-align: center;
+}
+.h-portfolio {
+    text-align: center;
+}
+.basement {
+    width: 1440px;
+    height: 312px;
+    background-color: var(--navy-blue);
+    text-align: left;
+}
