@@ -63,7 +63,7 @@ body {
 }
 .button-service:hover,
 .button-service:focus {
-    color: #404BBF;
+    background-color: #404BBF;
 }
 .h-strategy {
     font-weight: 500;
