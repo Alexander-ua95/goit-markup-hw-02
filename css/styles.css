@@ -23,9 +23,7 @@ body {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.a-studio :hover {
-    color: #404bbf;
-}
+.a-studio :hover,
 .a-studio :focus {
     color: #404bbf;
 }
@@ -38,9 +36,7 @@ body {
     letter-spacing: 0.02em;
     color: #434455
 }
-.email :hover {
-    color: #404bbf;
-}
+.email :hover,
 .email :focus {
     color: #404bbf;
 }
@@ -48,10 +44,10 @@ body {
     background-color: #2e2f42;
 }
 .business {
-    font-size: 50px;
+    font-size: 56px;
     line-height: 1.07;
     text-align: center;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.02em
     color: #ffffff;
 }
 .button-service {
@@ -65,9 +61,7 @@ body {
     background-color: #4D5AE5;
     color: #ffffff;
 }
-.button-service :hover {
-    color: #404BBF;
-}
+.button-service :hover,
 .button-service :focus {
     color: #404BBF;
 }
