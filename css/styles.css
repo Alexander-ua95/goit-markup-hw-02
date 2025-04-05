@@ -25,9 +25,128 @@ ul {
 a {
     text-decoration: none;
 }
-.web {
-    color: var(--iris);
+.logo {
+    font-family: "Raleway",
+        sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4d5ae5;
 }
+.logo-studio {
+    color: #2e2f42;
+}
+.a-studio {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.002em;
+    color: #2e2f42;
+}
+.a-studio :hover {
+    color: #404bbf;
+}
+.a-studio :focus {
+    color: #404bbf;
+}
+.adressa {
+    font-style: normal;
+}
+.email {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455
+}
+.email :hover {
+    color: #404bbf;
+}
+.email :focus {
+    color: #404bbf;
+}
+.s-title {
+    background-color: #2e2f42;
+}
+.button-service {
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+}
+.button-service :hover {
+    color: #404BBF;
+}
+.button-service :focus {
+    color: #404BBF;
+}
+.h-strategy {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.s-paragraph {
+    font-size: ;
+    line-height: ;
+    letter-spacing: ;
+    color: #434455;
+}
+.our-team {
+    background-color: #F4F4FD;
+}
+.h-ourteam {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.li-team {
+    background-color: #FFFFFF;
+}
+.team-mark {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.team-landing {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.h-portfolio {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.banking-app {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+
+
+
+
+
+
+
+
+
+
 .business {
     font-family: var(--font-family
     );
@@ -39,23 +158,12 @@ a {
         color: var(--white);
         background-color: var(--navy-blue);
 }
-.button-service {
-    border-radius: 4px;
-        padding: 16px 32px;
-        width: 169px;
-        height: 56px;
-        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-        background: var(--iris);
-        color: var(--white);
-}
+
 .spdt li {
     width: 264px;
     height: 104px;
 }
-.h-ourteam {
-    text-align: center;
-    background-color: var(--cloud);
-}
+
 .team li {
     border-radius: 0 0 4px 4px;
         padding: 0px 0px 32px 0px;
@@ -63,9 +171,7 @@ a {
         height: 380px;
         text-align: center;
 }
-.h-portfolio {
-    text-align: center;
-}
+
 .basement {
     width: 1440px;
     height: 312px;
